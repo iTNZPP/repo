@@ -1,0 +1,13 @@
+Package: com.itnz.lolih3ntai
+Name: lolih3ntai
+Version: 1.0
+Architecture: iphoneos-arm
+Description: get free hentai today. based on the jelbrek. (needs anemone or snowboard to work)
+Maintainer: iTNZ
+Author: iTNZ & Axelbyte.
+Section: Themes 
+Filename: debs/com.itnz.lolih3ntai_1.0_iphoneos-arm.deb
+Size: 130576
+MD5sum: 9cc7050f024eec846294c79b0229dc09
+SHA1:   34b9bdda03b036d3e5d3f023c6bcfec18ca4e5b3	
+SHA256: 400d78725870c11e666166eff94221a7888057ae8f7c663a1b42c612f3f37262
